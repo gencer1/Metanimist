@@ -1,6 +1,6 @@
 # metanimist
 
-Web projelerimi mobil platform ile birleştirmek için test projesi.
+Web projelerimi mobil platformla desteklemek için örnek bir proje.
 
 ## Getting Started
 
