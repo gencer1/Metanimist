@@ -1,6 +1,6 @@
 # metanimist
 
-A new Flutter project.
+Web projelerimi mobil platform ile birleştirmek için test projesi.
 
 ## Getting Started
 
